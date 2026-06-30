@@ -1,4 +1,5 @@
 # beginner
 this is my first git  repository.  
 <br>
-author - sneha aggarwal
+author - sneha aggarwal (beginner)
+git statut
